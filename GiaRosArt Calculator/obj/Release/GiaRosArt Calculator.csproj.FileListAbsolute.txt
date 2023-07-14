@@ -1,0 +1,5 @@
+C:\Users\GiaRosArt\Documents\SharpDevelop Projects\GiaRosArt Calculator\GiaRosArt Calculator\bin\Release\GiaRosArt Calculator.exe
+C:\Users\GiaRosArt\Documents\SharpDevelop Projects\GiaRosArt Calculator\GiaRosArt Calculator\obj\Release\GiaRosArt Calculator.csprojResolveAssemblyReference.cache
+C:\Users\GiaRosArt\Documents\SharpDevelop Projects\GiaRosArt Calculator\GiaRosArt Calculator\obj\Release\GiaRosArt_Calculator.frmCalculator.resources
+C:\Users\GiaRosArt\Documents\SharpDevelop Projects\GiaRosArt Calculator\GiaRosArt Calculator\obj\Release\GiaRosArt Calculator.csproj.GenerateResource.Cache
+C:\Users\GiaRosArt\Documents\SharpDevelop Projects\GiaRosArt Calculator\GiaRosArt Calculator\obj\Release\GiaRosArt Calculator.exe
